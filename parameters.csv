@@ -1,0 +1,2 @@
+vmname,memory,cpu,disksize,vswitchname,gateway,ipaddr,subnet,dns,templatepath,vhdsourcepath,vhddestinationpath,assetname,hddtype,vlan,gen,domainname,username,passwd
+Window2019,2,2,150,ExternalVMSwitch,172.30.67.1,172.30.67.191,255.255.255.0,172.30.71.50,D:\\VM_Template\\Window2019\\Virtual Machines\\3613DE6A-0309-4B5F-B5CD-C4A9B6E46A1A.vmcx,D:\VM_Template\Window2019\\Virtual Hard Disks,C:\\Users\\Public\\Documents\Hyper-V\\Virtual hard disks\\Windows2019,Windows2019,Dynamic,172.30.67.0,Generation 1,NECTECHNOLOGIES.IN,Administrator,Abc@123
